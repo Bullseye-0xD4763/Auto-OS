@@ -18,4 +18,4 @@ It currently performs these operations:
 
 Inspired by the NullByte youtube channel. In particular, the following videos.
 
-[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+[![Video](https://i.ytimg.com/an_webp/c4HOWojf2Jo/mqdefault_6s.webp?du=3000&sqp=CITarJoG&rs=AOn4CLDbsVUxBjS8HNWPTz1FCnbLbxkUzA)]([https://www.youtube.com/watch?v=jXnoFqcAkQA](https://www.youtube.com/watch?v=c4HOWojf2Jo))
