@@ -1,5 +1,5 @@
 # Auto-OS
-A script desgined to automate linux OS hardening tasks. Currently in version 1.5
+A script desgined to automate linux OS hardening tasks. Version 1.5
 
 ```bash
 It currently performs these operations:
